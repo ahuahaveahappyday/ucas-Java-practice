@@ -1,0 +1,3 @@
+[submodule "external/hazelcast"]
+	path = external/hazelcast
+	url = https://github.com/hazelcast/hazelcast.git
